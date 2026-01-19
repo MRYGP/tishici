@@ -9,7 +9,7 @@ KAIROS理论体系的不同应用场景，用于理论创作、认知进化和�
 | **KAIROS引擎终极系统指令 v2.0.md** | v2.0 | KAIROS协同进化引擎，三大工作模式、Token优化 | 理论创作、认知伙伴 |
 | **KAIROS协同进化引擎v12.0.md** | v12.0 | 共同进化的认知伙伴，三大工作模式、Token优化 | 深度理论创作 |
 | **KAIROS行动引擎v12.0.md** | v12.0 | KAIROS行动引擎系统 | 行动执行系统 |
-| **KAIROS_Master_Controller_v5.0.md** | v5.0 | 三重人格系统、实时情绪智能、三大工作模式 | 产品经理AI、认知进化伙伴 |
+| **KAIROS_Master_Controller_v5.3.md** | v5.3 | 三重人格系统、实时情绪智能、三大工作模式 | 产品经理AI、认知进化伙伴 |
 
 ## 核心功能
 
@@ -21,5 +21,5 @@ KAIROS理论体系的不同应用场景，用于理论创作、认知进化和�
 
 - **理论创作**：使用`KAIROS协同进化引擎v12.0.md`
 - **行动执行**：使用`KAIROS行动引擎v12.0.md`
-- **产品管理**：使用`KAIROS_Master_Controller_v5.0.md`
+- **产品管理**：使用`KAIROS_Master_Controller_v5.3.md`
 

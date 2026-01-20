@@ -1,0 +1,44 @@
+# KAIROS v9.0 任务评估模板
+
+evaluation_id: "YYYY-MM-DD_NNN"
+timestamp: "ISO-8601格式"
+user: "changshayang"
+
+# 任务信息
+task:
+  type: ""                # 设计新提示词 / 优化现有提示词 / 质量评估 / 理论咨询
+  domain: ""              # 任务领域（金融/教育/客服等）
+  complexity: 0           # 1-10，Claude自动评估
+
+# 模式使用
+mode_used:
+  primary: ""             # 主要使用的模式
+  secondary: null         # 次要模式（如果有）
+  mode_switch: false      # 是否切换过模式
+
+# Token成本
+token_cost:
+  estimated: 0            # 预估Token
+  actual: 0               # 实际Token
+  within_budget: true     # 是否在预算内
+
+# 用户反馈
+feedback:
+  satisfaction: 0         # 1-10分
+  most_useful_feature: "" # 最有用的功能
+  problems_encountered: ""# 遇到的问题
+  improvement_suggestions: "" # 改进建议
+
+# 功能使用统计（Claude自动记录）
+features_used:
+  four_interrogations: false
+  prohibition_list: false
+  token_budget_warning: false
+  mode_auto_suggest: false
+  loop_mode: false
+
+# 自动分析
+auto_analysis:
+  task_success: true      # 任务是否成功
+  token_efficiency: 0.0   # actual/estimated
+  mode_appropriate: true  # 使用的模式是否合适
